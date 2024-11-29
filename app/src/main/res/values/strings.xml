@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="poster_image_background">Poster image background</string>
+    <string name="country_image_background">Country given image background</string>
+    <string name="world_continent_icon_content_description">World continent icon</string>
+    <string name="header_title">Countries</string>
+    <string name="refresh_icon_content_description">Refresh icon</string>
+    <string name="continent_icon_content_description">continent Icon</string>
+    <string name="empty_state_header">No Countries Available</string>
+    <string name="empty_state_description">It seems like we don\'t have any countries to show at the moment. Please refresh or try again later.</string>
+</resources>

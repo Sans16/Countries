@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="country_formated_description">
+        <item quantity="one">%1$s is a country in %2$s that speaks %3$d language. %4$s is the official language of the country.</item>
+        <item quantity="other">%1$s is a country in %2$s that speaks %3$d languages. %4$s is one of the languages that is spoken in the country.</item>
+    </plurals>
+</resources>
